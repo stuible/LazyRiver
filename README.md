@@ -5,5 +5,4 @@ Lazy River is Javascript & CSS Library that easily allows web developers to disp
 
 <img src="https://thumbs.gfycat.com/UncommonUnrulyHypsilophodon-size_restricted.gif" alt="Lazy River Demo" width="auto" height="auto">
 
-
-test test
+I changed it!
